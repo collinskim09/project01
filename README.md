@@ -68,9 +68,9 @@ Since the data was from different sites it had different number of rows and colu
 
 ## RECOMMEDATIONS
 - The company should consider the production of the following genres, Drama , Documentary and comedy since they are more popular
-- The company should set aside an average of 31587757.1 dollars for the first movie production
-- The company should expect a return 101773030.68 with a little deviation
+- The company should set aside an average of 31587757.1 dollars for the first movie production 
+- The company should expect an approximate return of  101773030.68 dollars 
 - To get the experienve of movie production the company should partner with other movie studio or higher 
 - people who have experience in movie production.
 
-To get the full presentation clic the link https://docs.google.com/presentation/d/1b6fD8XEzVIzzJdo3VgDU8v-J6wYnJLlpF7Z81KiB45I/edit?usp=sharing
+To get full slide presentation click here [here](https://docs.google.com/presentation/d/1b6fD8XEzVIzzJdo3VgDU8v-J6wYnJLlpF7Z81KiB45I/edit?usp=sharing)
